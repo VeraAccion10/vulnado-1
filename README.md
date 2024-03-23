@@ -1,4 +1,4 @@
-m/l,,.m,m/,.m,l,ml,mcnxlfnknmjkljkmmnm.kjkmknjfgfg,m.k;ksmlds.mn,kmlmadadfkmdcdfdfdfsfdddnado - Intentionally Vulnerable Java Application
+sdsdm/l,,.m,m/,.m,l,ml,mcnxlfnknmjkljkmmnm.kjkmknjfgfg,m.k;ksmlds.mn,kmlmadadfkmdcdfdfdfsfdddnado - Intentionally Vulnerable Java Application
 
 This application and exercises will take you through some of the OWASP top 10 Vulnerabilities and how to prevent them.ccczdcxsz
 
